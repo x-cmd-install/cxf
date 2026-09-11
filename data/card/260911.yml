@@ -2,15 +2,15 @@ about:
   description: "Apache CXF"
   license: Apache-2.0
   homepage: https://cxf.apache.org
-  head: c9f8dc4
+  head: 886c846
   archived: false
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:51:17Z
+  collectedAt: 2026-09-11T19:00:20Z
 timeline:
   created: 2014-02-19
-  lastCommit: 2026-09-10
+  lastCommit: 2026-09-11
   lastVersion: 
   lastRelease: 
   lastPrerelease: 
@@ -42,61 +42,61 @@ recent:
   last30d:
     since: 2026-08-12
     release: 0
-    mergedPR: 79
-    openPR: 6
+    mergedPR: 80
+    openPR: 5
     closedIssue: 0
     openIssue: 0
-    commit: 86
+    commit: 87
   last60d:
     since: 2026-07-13
     release: 0
-    mergedPR: 129
-    openPR: 6
+    mergedPR: 130
+    openPR: 5
     closedIssue: 0
     openIssue: 0
-    commit: 157
+    commit: 158
   last90d:
     since: 2026-06-13
     release: 0
-    mergedPR: 208
-    openPR: 7
+    mergedPR: 209
+    openPR: 6
     closedIssue: 0
     openIssue: 0
-    commit: 243
+    commit: 244
   last180d:
     since: 2026-03-15
     release: 0
-    mergedPR: 412
-    openPR: 7
+    mergedPR: 413
+    openPR: 6
     closedIssue: 0
     openIssue: 0
-    commit: 521
+    commit: 522
   last360d:
     since: 2025-09-16
     release: 0
-    mergedPR: 702
-    openPR: 19
+    mergedPR: 703
+    openPR: 18
     closedIssue: 0
     openIssue: 0
-    commit: 948
+    commit: 949
   last720d:
     since: 2024-09-21
     release: 0
-    mergedPR: 1127
-    openPR: 19
+    mergedPR: 1128
+    openPR: 18
     closedIssue: 0
     openIssue: 0
-    commit: 1587
+    commit: 1588
 total:
   release: 0
-  mergedPR: 2600
-  openPR: 21
+  mergedPR: 2601
+  openPR: 20
   closedIssue: 0
   openIssue: 0
-  commit: 19897
+  commit: 19898
 ---
 path: /home/runner/.x-repo/github.com/apache/cxf
-collectedAt: 2026-09-11T05:51:48Z
+collectedAt: 2026-09-11T19:00:58Z
 loc:
   Java:
     code: 717555
@@ -194,10 +194,10 @@ total:
   blanks: 154024
   files: 10196
 ---
-date: "2026-09-10T22:39:58Z"
+date: "2026-09-11T11:24:49Z"
 repo:
   name: github.com/apache/cxf
-  commit: c9f8dc497879b5a2eca2a51a6d21f80966d534a1
+  commit: 886c8469ce8883e9ceec1abaa83f7c58c76575bc
 scorecard:
   version: v5.5.0
   commit: c395761df6afe1a69e476bc60a013a94bcbc153f
@@ -212,15 +212,14 @@ checks:
     reason: update tool detected
     details:
       - 'Info: detected update tool: Dependabot: .github/dependabot.yml:1'
+  - name: Dangerous-Workflow
+    score: 10
+    reason: no dangerous workflow patterns detected
+    details: null
   - name: Code-Review
     score: 8
     reason: Found 12/15 approved changesets -- score normalized to 8
     details: null
-  - name: Packaging
-    score: -1
-    reason: packaging workflow not detected
-    details:
-      - 'Warn: no GitHub/GitLab publishing workflow detected.'
   - name: Security-Policy
     score: 10
     reason: security policy file detected
@@ -229,23 +228,28 @@ checks:
       - 'Info: Found linked content: SECURITY.md:1'
       - 'Info: Found disclosure, vulnerability, and/or timelines in security policy: SECURITY.md:1'
       - 'Info: Found text in security policy: SECURITY.md:1'
+  - name: Packaging
+    score: -1
+    reason: packaging workflow not detected
+    details:
+      - 'Warn: no GitHub/GitLab publishing workflow detected.'
   - name: Token-Permissions
     score: 10
     reason: GitHub workflow tokens follow principle of least privilege
     details:
       - 'Info: jobLevel ''actions'' permission set to ''read'': .github/workflows/codeql-analysis.yml:27'
       - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/codeql-analysis.yml:28'
-      - 'Info: jobLevel ''pull-requests'' permission set to ''read'': .github/workflows/pull-request-build.yml:23'
       - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/pull-request-build.yml:22'
-      - 'Info: jobLevel ''actions'' permission set to ''read'': .github/workflows/scorecards.yml:24'
+      - 'Info: jobLevel ''pull-requests'' permission set to ''read'': .github/workflows/pull-request-build.yml:23'
       - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/scorecards.yml:23'
+      - 'Info: jobLevel ''actions'' permission set to ''read'': .github/workflows/scorecards.yml:24'
       - 'Info: topLevel ''contents'' permission set to ''read'': .github/workflows/codeql-analysis.yml:18'
       - 'Info: topLevel ''contents'' permission set to ''read'': .github/workflows/pull-request-build.yml:8'
       - 'Info: topLevel permissions set to ''read-all'': .github/workflows/scorecards.yml:11'
       - 'Info: no jobLevel write permissions found'
-  - name: Dangerous-Workflow
-    score: 10
-    reason: no dangerous workflow patterns detected
+  - name: CII-Best-Practices
+    score: 5
+    reason: 'badge detected: Passing'
     details: null
   - name: Binary-Artifacts
     score: 8
@@ -253,16 +257,6 @@ checks:
     details:
       - 'Warn: binary detected: etc/idea/settings.jar:1'
       - 'Warn: binary detected: tck/cxf-tck/lib/jersey-client-3.1.10.jar:1'
-  - name: License
-    score: 10
-    reason: license file detected
-    details:
-      - 'Info: project has a license file: LICENSE:0'
-      - 'Info: FSF or OSI recognized license: Apache License 2.0: LICENSE:0'
-  - name: CII-Best-Practices
-    score: 5
-    reason: 'badge detected: Passing'
-    details: null
   - name: Pinned-Dependencies
     score: 4
     reason: dependency not pinned by hash detected -- score normalized to 4
@@ -273,6 +267,12 @@ checks:
       - 'Info:  10 out of  10 GitHub-owned GitHubAction dependencies pinned'
       - 'Info:   1 out of   1 third-party GitHubAction dependencies pinned'
       - 'Info:   0 out of   3 containerImage dependencies pinned'
+  - name: License
+    score: 10
+    reason: license file detected
+    details:
+      - 'Info: project has a license file: LICENSE:0'
+      - 'Info: FSF or OSI recognized license: Apache License 2.0: LICENSE:0'
   - name: Fuzzing
     score: 10
     reason: project is fuzzed
