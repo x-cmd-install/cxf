@@ -32,7 +32,7 @@ x install cxf
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
-- **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
+- **Signed-Releases** (-1/10) — no releases found
 
 ## 源代码
 
@@ -46,18 +46,18 @@ x install cxf
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 2601 · **开放 PR**: 20 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 19898
+- **发布数**: 0 · **已合并 PR**: 2602 · **开放 PR**: 19 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 19899
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 80 | 5 | 0 | 0 | 87 |
-| last60d | 2026-07-13 | 0 | 130 | 5 | 0 | 0 | 158 |
-| 90d | 2026-06-13 | 0 | 209 | 6 | 0 | 0 | 244 |
-| last180d | 2026-03-15 | 0 | 413 | 6 | 0 | 0 | 522 |
-| 360d | 2025-09-16 | 0 | 703 | 18 | 0 | 0 | 949 |
-| last720d | 2024-09-21 | 0 | 1128 | 18 | 0 | 0 | 1588 |
+| 30d | 2026-08-13 | 0 | 78 | 4 | 0 | 0 | 88 |
+| last60d | 2026-07-14 | 0 | 129 | 4 | 0 | 0 | 159 |
+| 90d | 2026-06-14 | 0 | 210 | 5 | 0 | 0 | 245 |
+| last180d | 2026-03-16 | 0 | 412 | 5 | 0 | 0 | 523 |
+| 360d | 2025-09-17 | 0 | 701 | 17 | 0 | 0 | 950 |
+| last720d | 2024-09-22 | 0 | 1129 | 17 | 0 | 0 | 1588 |
 
 ## 发行版状态
 
@@ -72,4 +72,4 @@ cxf 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T19:01:08Z._
+_数据快照: `data/card/260912.yml` · 2026-09-12T05:29:06Z._

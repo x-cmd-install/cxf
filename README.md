@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
-- **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
+- **Signed-Releases** (-1/10) — no releases found
 
 ## Source
 
@@ -46,18 +46,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2601 · **Open PRs**: 20 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 19898
+- **Releases**: 0 · **Merged PRs**: 2602 · **Open PRs**: 19 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 19899
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 80 | 5 | 0 | 0 | 87 |
-| last60d | 2026-07-13 | 0 | 130 | 5 | 0 | 0 | 158 |
-| 90d | 2026-06-13 | 0 | 209 | 6 | 0 | 0 | 244 |
-| last180d | 2026-03-15 | 0 | 413 | 6 | 0 | 0 | 522 |
-| 360d | 2025-09-16 | 0 | 703 | 18 | 0 | 0 | 949 |
-| last720d | 2024-09-21 | 0 | 1128 | 18 | 0 | 0 | 1588 |
+| 30d | 2026-08-13 | 0 | 78 | 4 | 0 | 0 | 88 |
+| last60d | 2026-07-14 | 0 | 129 | 4 | 0 | 0 | 159 |
+| 90d | 2026-06-14 | 0 | 210 | 5 | 0 | 0 | 245 |
+| last180d | 2026-03-16 | 0 | 412 | 5 | 0 | 0 | 523 |
+| 360d | 2025-09-17 | 0 | 701 | 17 | 0 | 0 | 950 |
+| last720d | 2024-09-22 | 0 | 1129 | 17 | 0 | 0 | 1588 |
 
 ## Distribution status
 
@@ -72,4 +72,4 @@ Install metadata for cxf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T19:01:05Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T05:29:05Z._
