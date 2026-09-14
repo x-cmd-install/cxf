@@ -46,22 +46,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2603 · **Open PRs**: 18 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 19902
+- **Releases**: 0 · **Merged PRs**: 2603 · **Open PRs**: 26 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 19902
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 77 | 3 | 0 | 0 | 78 |
-| last60d | 2026-07-15 | 0 | 129 | 3 | 0 | 0 | 149 |
-| 90d | 2026-06-15 | 0 | 209 | 4 | 0 | 0 | 231 |
-| last180d | 2026-03-17 | 0 | 413 | 4 | 0 | 0 | 515 |
-| 360d | 2025-09-18 | 0 | 701 | 16 | 0 | 0 | 940 |
-| last720d | 2024-09-23 | 0 | 1129 | 16 | 0 | 0 | 1590 |
-
-## Distribution status
-
-Reported by **2** distros on [repology.org](https://repology.org/project/cxf). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+| 30d | 2026-08-15 | 0 | 77 | 11 | 0 | 0 | 78 |
+| last60d | 2026-07-16 | 0 | 128 | 11 | 0 | 0 | 149 |
+| 90d | 2026-06-16 | 0 | 205 | 12 | 0 | 0 | 231 |
+| last180d | 2026-03-18 | 0 | 413 | 12 | 0 | 0 | 515 |
+| 360d | 2025-09-19 | 0 | 699 | 24 | 0 | 0 | 940 |
+| last720d | 2024-09-24 | 0 | 1128 | 24 | 0 | 0 | 1589 |
 
 ## Improve this data
 
@@ -72,4 +68,4 @@ Install metadata for cxf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:41:23Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:05:35Z._
