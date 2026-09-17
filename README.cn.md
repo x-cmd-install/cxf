@@ -26,13 +26,13 @@ x install cxf
 
 ## OpenSSF Scorecard 评分
 
-总评分: **7.6 / 10**
+总评分: **7.5 / 10**
 
 评分最低的几项:
 
+- **Code-Review** (3/10) — Found 5/13 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (4/10) — Found 6/14 approved changesets -- score normalized to 4
-- **Signed-Releases** (-1/10) — no releases found
+- **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
 
 ## 源代码
 
@@ -46,18 +46,18 @@ x install cxf
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 2614 · **开放 PR**: 22 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 19915
+- **发布数**: 0 · **已合并 PR**: 2615 · **开放 PR**: 22 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 19916
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 87 | 7 | 0 | 0 | 91 |
-| last60d | 2026-07-18 | 0 | 136 | 7 | 0 | 0 | 162 |
-| 90d | 2026-06-18 | 0 | 208 | 8 | 0 | 0 | 244 |
-| last180d | 2026-03-20 | 0 | 421 | 8 | 0 | 0 | 528 |
-| 360d | 2025-09-21 | 0 | 710 | 20 | 0 | 0 | 953 |
-| last720d | 2024-09-26 | 0 | 1139 | 20 | 0 | 0 | 1602 |
+| 30d | 2026-08-18 | 0 | 86 | 7 | 0 | 0 | 92 |
+| last60d | 2026-07-19 | 0 | 136 | 7 | 0 | 0 | 163 |
+| 90d | 2026-06-19 | 0 | 208 | 8 | 0 | 0 | 245 |
+| last180d | 2026-03-21 | 0 | 421 | 8 | 0 | 0 | 529 |
+| 360d | 2025-09-22 | 0 | 709 | 20 | 0 | 0 | 954 |
+| last720d | 2024-09-27 | 0 | 1140 | 20 | 0 | 0 | 1603 |
 
 ## 改进这些数据
 
@@ -68,4 +68,4 @@ cxf 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260916.yml` · 2026-09-16T06:02:04Z._
+_数据快照: `data/card/260917.yml` · 2026-09-17T06:00:23Z._

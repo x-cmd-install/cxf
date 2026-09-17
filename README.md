@@ -26,13 +26,13 @@ Total: **851,799** lines of code across **9893** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7.6 / 10**
+Overall score: **7.5 / 10**
 
 Lowest-scoring checks:
 
+- **Code-Review** (3/10) — Found 5/13 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (4/10) — Found 6/14 approved changesets -- score normalized to 4
-- **Signed-Releases** (-1/10) — no releases found
+- **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
 
 ## Source
 
@@ -46,18 +46,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2614 · **Open PRs**: 22 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 19915
+- **Releases**: 0 · **Merged PRs**: 2615 · **Open PRs**: 22 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 19916
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 87 | 7 | 0 | 0 | 91 |
-| last60d | 2026-07-18 | 0 | 136 | 7 | 0 | 0 | 162 |
-| 90d | 2026-06-18 | 0 | 208 | 8 | 0 | 0 | 244 |
-| last180d | 2026-03-20 | 0 | 421 | 8 | 0 | 0 | 528 |
-| 360d | 2025-09-21 | 0 | 710 | 20 | 0 | 0 | 953 |
-| last720d | 2024-09-26 | 0 | 1139 | 20 | 0 | 0 | 1602 |
+| 30d | 2026-08-18 | 0 | 86 | 7 | 0 | 0 | 92 |
+| last60d | 2026-07-19 | 0 | 136 | 7 | 0 | 0 | 163 |
+| 90d | 2026-06-19 | 0 | 208 | 8 | 0 | 0 | 245 |
+| last180d | 2026-03-21 | 0 | 421 | 8 | 0 | 0 | 529 |
+| 360d | 2025-09-22 | 0 | 709 | 20 | 0 | 0 | 954 |
+| last720d | 2024-09-27 | 0 | 1140 | 20 | 0 | 0 | 1603 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for cxf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T06:02:02Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T06:00:22Z._
