@@ -4,7 +4,7 @@
 
 Apache CXF
 
-![cxf](https://repo.x-cmd.io/cxf.svg?lang=zh)
+[![x-cmd/install — cxf Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cxf.svg?lang=zh)](https://x-cmd.com/install/cxf)
 
 ## 安装
 
@@ -30,8 +30,8 @@ x install cxf
 
 评分最低的几项:
 
-- **Code-Review** (4/10) — Found 4/10 approved changesets -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (4/10) — Found 5/11 approved changesets -- score normalized to 4
 - **Signed-Releases** (-1/10) — no releases found
 
 ## 源代码
@@ -46,18 +46,18 @@ x install cxf
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 2619 · **开放 PR**: 21 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 19920
+- **发布数**: 0 · **已合并 PR**: 2623 · **开放 PR**: 18 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 19924
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 89 | 6 | 0 | 0 | 95 |
-| last60d | 2026-07-20 | 0 | 136 | 6 | 0 | 0 | 166 |
-| 90d | 2026-06-20 | 0 | 211 | 7 | 0 | 0 | 248 |
-| last180d | 2026-03-22 | 0 | 424 | 7 | 0 | 0 | 532 |
-| 360d | 2025-09-23 | 0 | 712 | 19 | 0 | 0 | 957 |
-| last720d | 2024-09-28 | 0 | 1144 | 19 | 0 | 0 | 1604 |
+| 30d | 2026-08-21 | 0 | 88 | 2 | 0 | 0 | 75 |
+| last60d | 2026-07-22 | 0 | 135 | 3 | 0 | 0 | 151 |
+| 90d | 2026-06-22 | 0 | 209 | 4 | 0 | 0 | 239 |
+| last180d | 2026-03-24 | 0 | 420 | 4 | 0 | 0 | 517 |
+| 360d | 2025-09-25 | 0 | 710 | 16 | 0 | 0 | 945 |
+| last720d | 2024-09-30 | 0 | 1143 | 16 | 0 | 0 | 1606 |
 
 ## 改进这些数据
 
@@ -68,4 +68,4 @@ cxf 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:51:23Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:57:18Z._
