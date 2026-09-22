@@ -30,9 +30,9 @@ Overall score: **7.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 4/11 approved changesets -- score normalized to 3
+- **Code-Review** (3/10) — Found 3/9 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
+- **Signed-Releases** (-1/10) — no releases found
 
 ## Source
 
@@ -46,18 +46,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2623 · **Open PRs**: 21 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 19925
+- **Releases**: 0 · **Merged PRs**: 2625 · **Open PRs**: 21 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 19927
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 88 | 5 | 0 | 0 | 76 |
-| last60d | 2026-07-23 | 0 | 131 | 6 | 0 | 0 | 152 |
-| 90d | 2026-06-23 | 0 | 207 | 7 | 0 | 0 | 240 |
-| last180d | 2026-03-25 | 0 | 416 | 7 | 0 | 0 | 518 |
-| 360d | 2025-09-26 | 0 | 707 | 19 | 0 | 0 | 946 |
-| last720d | 2024-10-01 | 0 | 1142 | 19 | 0 | 0 | 1601 |
+| 30d | 2026-08-23 | 0 | 90 | 5 | 0 | 0 | 78 |
+| last60d | 2026-07-24 | 0 | 129 | 6 | 0 | 0 | 154 |
+| 90d | 2026-06-24 | 0 | 209 | 7 | 0 | 0 | 242 |
+| last180d | 2026-03-26 | 0 | 418 | 7 | 0 | 0 | 520 |
+| 360d | 2025-09-27 | 0 | 709 | 19 | 0 | 0 | 948 |
+| last720d | 2024-10-02 | 0 | 1143 | 19 | 0 | 0 | 1602 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for cxf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:56:46Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T06:01:49Z._
