@@ -14,11 +14,11 @@ x install cxf
 
 ## Code insight
 
-Total: **851,899** lines of code across **9895** files in the top 5 languages.
+Total: **852,423** lines of code across **9897** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 717,692 | 198,548 | 148,263 | 7646 |
+| Java | 718,216 | 198,711 | 148,353 | 7648 |
 | Xml | 122,390 | 33,482 | 2,619 | 2161 |
 | Json | 5,950 | 0 | 0 | 30 |
 | XSL | 1,941 | 627 | 248 | 32 |
@@ -26,13 +26,13 @@ Total: **851,899** lines of code across **9895** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7.6 / 10**
+Overall score: **7.8 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 4/9 approved changesets -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Signed-Releases** (-1/10) — no releases found
+- **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
 
 ## Source
 
@@ -46,18 +46,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2631 · **Open PRs**: 22 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 19933
+- **Releases**: 0 · **Merged PRs**: 2638 · **Open PRs**: 22 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 19942
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 0 | 88 | 6 | 0 | 0 | 84 |
-| last60d | 2026-07-26 | 0 | 135 | 7 | 0 | 0 | 160 |
-| 90d | 2026-06-26 | 0 | 209 | 7 | 0 | 0 | 248 |
-| last180d | 2026-03-28 | 0 | 423 | 8 | 0 | 0 | 526 |
-| 360d | 2025-09-29 | 0 | 712 | 20 | 0 | 0 | 954 |
-| last720d | 2024-10-04 | 0 | 1146 | 20 | 0 | 0 | 1601 |
+| 30d | 2026-08-26 | 0 | 92 | 6 | 0 | 0 | 90 |
+| last60d | 2026-07-27 | 0 | 138 | 7 | 0 | 0 | 166 |
+| 90d | 2026-06-27 | 0 | 216 | 7 | 0 | 0 | 254 |
+| last180d | 2026-03-29 | 0 | 430 | 8 | 0 | 0 | 532 |
+| 360d | 2025-09-30 | 0 | 718 | 20 | 0 | 0 | 960 |
+| last720d | 2024-10-05 | 0 | 1153 | 20 | 0 | 0 | 1608 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for cxf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T05:27:29Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:46:22Z._
