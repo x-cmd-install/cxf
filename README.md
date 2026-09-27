@@ -42,7 +42,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 929 · **Forks**: 1,453 · **Open issues**: 0 · **Contributors**: 253
+- **Stars**: 929 · **Forks**: 1,454 · **Open issues**: 0 · **Contributors**: 253
 
 ## Totals (cumulative)
 
@@ -52,12 +52,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 0 | 95 | 1 | 0 | 0 | 97 |
-| last60d | 2026-07-28 | 0 | 142 | 2 | 0 | 0 | 173 |
-| 90d | 2026-06-28 | 0 | 223 | 2 | 0 | 0 | 261 |
-| last180d | 2026-03-30 | 0 | 432 | 3 | 0 | 0 | 539 |
-| 360d | 2025-10-01 | 0 | 723 | 15 | 0 | 0 | 967 |
-| last720d | 2024-10-06 | 0 | 1160 | 15 | 0 | 0 | 1614 |
+| 30d | 2026-08-28 | 0 | 88 | 1 | 0 | 0 | 70 |
+| last60d | 2026-07-29 | 0 | 141 | 2 | 0 | 0 | 160 |
+| 90d | 2026-06-29 | 0 | 218 | 2 | 0 | 0 | 238 |
+| last180d | 2026-03-31 | 0 | 431 | 3 | 0 | 0 | 522 |
+| 360d | 2025-10-02 | 0 | 722 | 15 | 0 | 0 | 955 |
+| last720d | 2024-10-07 | 0 | 1157 | 15 | 0 | 0 | 1614 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for cxf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:40:57Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T06:00:29Z._
