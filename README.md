@@ -14,11 +14,11 @@ x install cxf
 
 ## Code insight
 
-Total: **853,614** lines of code across **9904** files in the top 5 languages.
+Total: **854,037** lines of code across **9905** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 719,386 | 198,920 | 148,571 | 7654 |
+| Java | 719,809 | 198,972 | 148,645 | 7655 |
 | Xml | 122,411 | 33,482 | 2,619 | 2162 |
 | Json | 5,950 | 0 | 0 | 30 |
 | XSL | 1,941 | 627 | 248 | 32 |
@@ -46,18 +46,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2657 · **Open PRs**: 24 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 19960
+- **Releases**: 0 · **Merged PRs**: 2667 · **Open PRs**: 22 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 19970
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 90 | 8 | 0 | 0 | 77 |
-| last60d | 2026-08-01 | 0 | 151 | 9 | 0 | 0 | 167 |
-| 90d | 2026-07-02 | 0 | 219 | 9 | 0 | 0 | 245 |
-| last180d | 2026-04-03 | 0 | 434 | 10 | 0 | 0 | 529 |
-| 360d | 2025-10-05 | 0 | 730 | 22 | 0 | 0 | 962 |
-| last720d | 2024-10-10 | 0 | 1167 | 22 | 0 | 0 | 1618 |
+| 30d | 2026-09-01 | 0 | 94 | 6 | 0 | 0 | 83 |
+| last60d | 2026-08-02 | 0 | 161 | 7 | 0 | 0 | 173 |
+| 90d | 2026-07-03 | 0 | 223 | 7 | 0 | 0 | 251 |
+| last180d | 2026-04-04 | 0 | 444 | 8 | 0 | 0 | 535 |
+| 360d | 2025-10-06 | 0 | 737 | 20 | 0 | 0 | 968 |
+| last720d | 2024-10-11 | 0 | 1176 | 20 | 0 | 0 | 1626 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for cxf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:26:04Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:41:25Z._
