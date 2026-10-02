@@ -31,8 +31,8 @@ Overall score: **7.8 / 10**
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Signed-Releases** (-1/10) — no releases found
 - **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
+- **Signed-Releases** (-1/10) — no releases found
 
 ## Source
 
@@ -46,18 +46,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2667 · **Open PRs**: 22 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 19970
+- **Releases**: 0 · **Merged PRs**: 2667 · **Open PRs**: 22 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 19973
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 0 | 94 | 6 | 0 | 0 | 83 |
-| last60d | 2026-08-02 | 0 | 161 | 7 | 0 | 0 | 173 |
-| 90d | 2026-07-03 | 0 | 223 | 7 | 0 | 0 | 251 |
-| last180d | 2026-04-04 | 0 | 444 | 8 | 0 | 0 | 535 |
-| 360d | 2025-10-06 | 0 | 737 | 20 | 0 | 0 | 968 |
-| last720d | 2024-10-11 | 0 | 1176 | 20 | 0 | 0 | 1626 |
+| 30d | 2026-09-02 | 0 | 89 | 6 | 0 | 0 | 85 |
+| last60d | 2026-08-03 | 0 | 159 | 7 | 0 | 0 | 175 |
+| 90d | 2026-07-04 | 0 | 223 | 7 | 0 | 0 | 253 |
+| last180d | 2026-04-05 | 0 | 443 | 8 | 0 | 0 | 537 |
+| 360d | 2025-10-07 | 0 | 736 | 20 | 0 | 0 | 970 |
+| last720d | 2024-10-12 | 0 | 1176 | 20 | 0 | 0 | 1627 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for cxf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:41:25Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:18:44Z._
