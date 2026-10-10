@@ -320,3 +320,4 @@ checks:
     reason: project has 51 contributing companies or organizations
     details:
       - 'Info: found contributions from: IBM, OpenRock, ServiceComb, Talend, Tirasa, WASdev, adobe, alc-beijing, apache, apache / yupiik, arquillian, basis technology corp., cdi-spec, cfibmers, codehaus-plexus, connectpa, contrast security, cukespace, davidkarlsen.com, eclipse-ee4j, forge, fusesource, gliderlabs, hammock-project, helm, https://www.redhat.com/, ibm, jakartaee, java-schema-utilities, jbossws, jline, jmxtrans, kubernetes, mojohaus, open-telemetry, ops4j, qlik, quarkusio, resteasy, savoir technologies, savoirtech, seam, servicenow, sonatype-nexus-community, takari, talend a qlik company, tirasa, tracknalysis, tymiq, wildfly, xLightsSequencer'
+---
