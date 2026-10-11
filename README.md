@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 929 · **Forks**: 1,452 · **Open issues**: 0 · **Contributors**: 253
+- **Stars**: 929 · **Forks**: 1,453 · **Open issues**: 0 · **Contributors**: 253
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2692 · **Open PRs**: 21 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 20004
+- **Releases**: 0 · **Merged PRs**: 2692 · **Open PRs**: 22 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 20004
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 91 | 5 | 0 | 0 | 86 |
-| last60d | 2026-08-11 | 0 | 173 | 6 | 0 | 0 | 177 |
-| 90d | 2026-07-12 | 0 | 225 | 6 | 0 | 0 | 249 |
-| last180d | 2026-04-13 | 0 | 459 | 7 | 0 | 0 | 545 |
-| 360d | 2025-10-15 | 0 | 750 | 19 | 0 | 0 | 973 |
-| last720d | 2024-10-20 | 0 | 1187 | 19 | 0 | 0 | 1638 |
+| 30d | 2026-09-11 | 0 | 89 | 6 | 0 | 0 | 63 |
+| last60d | 2026-08-12 | 0 | 171 | 7 | 0 | 0 | 164 |
+| 90d | 2026-07-13 | 0 | 221 | 7 | 0 | 0 | 237 |
+| last180d | 2026-04-14 | 0 | 459 | 8 | 0 | 0 | 530 |
+| 360d | 2025-10-16 | 0 | 749 | 20 | 0 | 0 | 959 |
+| last720d | 2024-10-21 | 0 | 1185 | 20 | 0 | 0 | 1637 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for cxf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:30:03Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:34:55Z._
