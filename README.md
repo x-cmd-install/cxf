@@ -14,11 +14,11 @@ x install cxf
 
 ## Code insight
 
-Total: **858,768** lines of code across **9930** files in the top 5 languages.
+Total: **859,126** lines of code across **9931** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 724,504 | 199,755 | 149,420 | 7677 |
+| Java | 724,862 | 199,819 | 149,484 | 7678 |
 | Xml | 122,447 | 33,539 | 2,620 | 2165 |
 | Json | 5,950 | 0 | 0 | 30 |
 | XSL | 1,941 | 627 | 248 | 32 |
@@ -46,18 +46,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2745 · **Open PRs**: 18 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 20068
+- **Releases**: 0 · **Merged PRs**: 2747 · **Open PRs**: 19 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 20073
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 114 | 5 | 0 | 0 | 108 |
-| last60d | 2026-08-24 | 0 | 205 | 5 | 0 | 0 | 203 |
-| 90d | 2026-07-25 | 0 | 249 | 6 | 0 | 0 | 281 |
-| last180d | 2026-04-26 | 0 | 494 | 7 | 0 | 0 | 579 |
-| 360d | 2025-10-28 | 0 | 786 | 16 | 0 | 0 | 1008 |
-| last720d | 2024-11-02 | 0 | 1220 | 16 | 0 | 0 | 1674 |
+| 30d | 2026-09-24 | 0 | 109 | 6 | 0 | 0 | 113 |
+| last60d | 2026-08-25 | 0 | 204 | 6 | 0 | 0 | 208 |
+| 90d | 2026-07-26 | 0 | 251 | 7 | 0 | 0 | 286 |
+| last180d | 2026-04-27 | 0 | 492 | 8 | 0 | 0 | 584 |
+| 360d | 2025-10-29 | 0 | 786 | 17 | 0 | 0 | 1013 |
+| last720d | 2024-11-03 | 0 | 1222 | 17 | 0 | 0 | 1679 |
 
 ## Distribution status
 
@@ -72,4 +72,4 @@ Install metadata for cxf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:27:20Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:24:37Z._
