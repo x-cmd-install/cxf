@@ -2,15 +2,15 @@ about:
   description: "Apache CXF"
   license: Apache-2.0
   homepage: https://cxf.apache.org
-  head: d82604c
+  head: 16c63e3
   archived: false
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-10-30T06:36:23Z
+  collectedAt: 2026-10-31T06:21:40Z
 timeline:
   created: 2014-02-19
-  lastCommit: 2026-10-30
+  lastCommit: 2026-10-31
   lastVersion: 
   lastRelease: 
   lastPrerelease: 
@@ -20,10 +20,10 @@ popularity:
   fork: 1454
   release: 0
   contributor: 256
-  pullRequest: 3647
+  pullRequest: 3650
   issue: 0
 language:
-  Java: 41115510
+  Java: 41199358
   XSLT: 102660
   JavaScript: 97314
   Shell: 62452
@@ -37,72 +37,72 @@ language:
   Ruby: 949
   Dockerfile: 780
   CSS: 367
-totalBytes: 41505152
+totalBytes: 41589000
 recent:
   last30d:
-    since: 2026-09-30
+    since: 2026-10-01
     release: 0
-    mergedPR: 102
-    openPR: 10
+    mergedPR: 107
+    openPR: 7
     closedIssue: 0
     openIssue: 0
-    commit: 114
+    commit: 120
   last60d:
-    since: 2026-08-31
+    since: 2026-09-01
     release: 0
     mergedPR: 203
-    openPR: 10
+    openPR: 7
     closedIssue: 0
     openIssue: 0
-    commit: 207
+    commit: 213
   last90d:
-    since: 2026-08-01
+    since: 2026-08-02
     release: 0
-    mergedPR: 264
-    openPR: 11
+    mergedPR: 270
+    openPR: 8
     closedIssue: 0
     openIssue: 0
-    commit: 293
+    commit: 299
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 0
-    mergedPR: 504
-    openPR: 12
+    mergedPR: 506
+    openPR: 9
     closedIssue: 0
     openIssue: 0
-    commit: 589
+    commit: 595
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 0
-    mergedPR: 799
-    openPR: 21
+    mergedPR: 804
+    openPR: 18
     closedIssue: 0
     openIssue: 0
-    commit: 1022
+    commit: 1028
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 0
-    mergedPR: 1239
-    openPR: 21
+    mergedPR: 1245
+    openPR: 18
     closedIssue: 0
     openIssue: 0
-    commit: 1696
+    commit: 1699
 total:
   release: 0
-  mergedPR: 2770
-  openPR: 23
+  mergedPR: 2776
+  openPR: 20
   closedIssue: 0
   openIssue: 0
-  commit: 20096
+  commit: 20102
 ---
 path: /home/runner/.x-repo/github.com/apache/cxf
-collectedAt: 2026-10-30T06:36:46Z
+collectedAt: 2026-10-31T06:22:10Z
 loc:
   Java:
-    code: 727264
-    comments: 200222
-    blanks: 149890
-    files: 7688
+    code: 728855
+    comments: 200393
+    blanks: 150113
+    files: 7692
   Xml:
     code: 122553
     comments: 33576
@@ -189,10 +189,10 @@ loc:
     blanks: 2103
     files: 209
 total:
-  code: 862040
-  comments: 242489
-  blanks: 155671
-  files: 10247
+  code: 863631
+  comments: 242660
+  blanks: 155894
+  files: 10251
 ---
 date: "2026-10-29T20:49:41Z"
 repo:
