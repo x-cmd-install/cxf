@@ -14,11 +14,11 @@ x install cxf
 
 ## Code insight
 
-Total: **861,634** lines of code across **9944** files in the top 5 languages.
+Total: **863,225** lines of code across **9948** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 727,264 | 200,222 | 149,890 | 7688 |
+| Java | 728,855 | 200,393 | 150,113 | 7692 |
 | Xml | 122,553 | 33,576 | 2,620 | 2168 |
 | Json | 5,950 | 0 | 0 | 30 |
 | XSL | 1,941 | 627 | 248 | 32 |
@@ -46,18 +46,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2770 · **Open PRs**: 23 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 20096
+- **Releases**: 0 · **Merged PRs**: 2776 · **Open PRs**: 20 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 20102
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 102 | 10 | 0 | 0 | 114 |
-| last60d | 2026-08-31 | 0 | 203 | 10 | 0 | 0 | 207 |
-| 90d | 2026-08-01 | 0 | 264 | 11 | 0 | 0 | 293 |
-| last180d | 2026-05-03 | 0 | 504 | 12 | 0 | 0 | 589 |
-| 360d | 2025-11-04 | 0 | 799 | 21 | 0 | 0 | 1022 |
-| last720d | 2024-11-09 | 0 | 1239 | 21 | 0 | 0 | 1696 |
+| 30d | 2026-10-01 | 0 | 107 | 7 | 0 | 0 | 120 |
+| last60d | 2026-09-01 | 0 | 203 | 7 | 0 | 0 | 213 |
+| 90d | 2026-08-02 | 0 | 270 | 8 | 0 | 0 | 299 |
+| last180d | 2026-05-04 | 0 | 506 | 9 | 0 | 0 | 595 |
+| 360d | 2025-11-05 | 0 | 804 | 18 | 0 | 0 | 1028 |
+| last720d | 2024-11-10 | 0 | 1245 | 18 | 0 | 0 | 1699 |
 
 ## Distribution status
 
@@ -72,4 +72,4 @@ Install metadata for cxf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:36:53Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:22:18Z._
