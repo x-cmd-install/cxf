@@ -14,11 +14,11 @@ x install cxf
 
 ## Code insight
 
-Total: **863,225** lines of code across **9948** files in the top 5 languages.
+Total: **863,524** lines of code across **9949** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 728,855 | 200,393 | 150,113 | 7692 |
+| Java | 729,154 | 200,434 | 150,175 | 7693 |
 | Xml | 122,553 | 33,576 | 2,620 | 2168 |
 | Json | 5,950 | 0 | 0 | 30 |
 | XSL | 1,941 | 627 | 248 | 32 |
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 930 · **Forks**: 1,454 · **Open issues**: 0 · **Contributors**: 256
+- **Stars**: 930 · **Forks**: 1,455 · **Open issues**: 0 · **Contributors**: 256
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2776 · **Open PRs**: 21 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 20102
+- **Releases**: 0 · **Merged PRs**: 2780 · **Open PRs**: 24 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 20106
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 107 | 8 | 0 | 0 | 102 |
-| last60d | 2026-09-02 | 0 | 198 | 8 | 0 | 0 | 192 |
-| 90d | 2026-08-03 | 0 | 268 | 9 | 0 | 0 | 290 |
-| last180d | 2026-05-05 | 0 | 505 | 10 | 0 | 0 | 566 |
-| 360d | 2025-11-06 | 0 | 804 | 19 | 0 | 0 | 1006 |
-| last720d | 2024-11-11 | 0 | 1242 | 19 | 0 | 0 | 1698 |
+| 30d | 2026-10-03 | 0 | 111 | 11 | 0 | 0 | 106 |
+| last60d | 2026-09-03 | 0 | 199 | 11 | 0 | 0 | 196 |
+| 90d | 2026-08-04 | 0 | 271 | 12 | 0 | 0 | 294 |
+| last180d | 2026-05-06 | 0 | 507 | 13 | 0 | 0 | 570 |
+| 360d | 2025-11-07 | 0 | 807 | 22 | 0 | 0 | 1010 |
+| last720d | 2024-11-12 | 0 | 1243 | 22 | 0 | 0 | 1698 |
 
 ## Distribution status
 
@@ -72,4 +72,4 @@ Install metadata for cxf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:47:26Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:54:23Z._
