@@ -42,22 +42,26 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 930 · **Forks**: 1,471 · **Open issues**: 0 · **Contributors**: 259
+- **Stars**: 931 · **Forks**: 1,471 · **Open issues**: 0 · **Contributors**: 259
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2805 · **Open PRs**: 22 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 20137
+- **Releases**: 0 · **Merged PRs**: 2806 · **Open PRs**: 20 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 20138
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 117 | 8 | 0 | 0 | 136 |
-| last60d | 2026-09-08 | 0 | 210 | 9 | 0 | 0 | 226 |
-| 90d | 2026-08-09 | 0 | 291 | 10 | 0 | 0 | 324 |
-| last180d | 2026-05-11 | 0 | 516 | 11 | 0 | 0 | 600 |
-| 360d | 2025-11-12 | 0 | 823 | 20 | 0 | 0 | 1040 |
-| last720d | 2024-11-17 | 0 | 1264 | 20 | 0 | 0 | 1717 |
+| 30d | 2026-10-09 | 0 | 111 | 6 | 0 | 0 | 112 |
+| last60d | 2026-09-09 | 0 | 207 | 7 | 0 | 0 | 201 |
+| 90d | 2026-08-10 | 0 | 289 | 8 | 0 | 0 | 303 |
+| last180d | 2026-05-12 | 0 | 508 | 9 | 0 | 0 | 570 |
+| 360d | 2025-11-13 | 0 | 824 | 18 | 0 | 0 | 1030 |
+| last720d | 2024-11-18 | 0 | 1263 | 18 | 0 | 0 | 1717 |
+
+## Distribution status
+
+Reported by **2** distros on [repology.org](https://repology.org/project/cxf). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -68,4 +72,4 @@ Install metadata for cxf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:46:04Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:45:01Z._
