@@ -14,11 +14,11 @@ x install cxf
 
 ## Code insight
 
-Total: **867,086** lines of code across **9967** files in the top 5 languages.
+Total: **867,279** lines of code across **9967** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 732,643 | 201,234 | 150,824 | 7710 |
+| Java | 732,836 | 201,263 | 150,842 | 7710 |
 | Xml | 122,626 | 33,598 | 2,620 | 2169 |
 | Json | 5,950 | 0 | 0 | 30 |
 | XSL | 1,941 | 627 | 248 | 32 |
@@ -26,7 +26,7 @@ Total: **867,086** lines of code across **9967** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7.8 / 10**
+Overall score: **7.9 / 10**
 
 Lowest-scoring checks:
 
@@ -46,18 +46,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2822 · **Open PRs**: 24 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 20156
+- **Releases**: 0 · **Merged PRs**: 2827 · **Open PRs**: 24 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 20161
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 119 | 10 | 0 | 0 | 131 |
-| last60d | 2026-09-13 | 0 | 218 | 11 | 0 | 0 | 220 |
-| 90d | 2026-08-14 | 0 | 296 | 12 | 0 | 0 | 322 |
-| last180d | 2026-05-16 | 0 | 519 | 13 | 0 | 0 | 589 |
-| 360d | 2025-11-17 | 0 | 839 | 22 | 0 | 0 | 1049 |
-| last720d | 2024-11-22 | 0 | 1273 | 22 | 0 | 0 | 1724 |
+| 30d | 2026-10-14 | 0 | 113 | 10 | 0 | 0 | 136 |
+| last60d | 2026-09-14 | 0 | 217 | 11 | 0 | 0 | 225 |
+| 90d | 2026-08-15 | 0 | 301 | 12 | 0 | 0 | 327 |
+| last180d | 2026-05-17 | 0 | 524 | 13 | 0 | 0 | 594 |
+| 360d | 2025-11-18 | 0 | 842 | 22 | 0 | 0 | 1054 |
+| last720d | 2024-11-23 | 0 | 1277 | 22 | 0 | 0 | 1725 |
 
 ## Distribution status
 
@@ -72,4 +72,4 @@ Install metadata for cxf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:25:23Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T07:51:59Z._
