@@ -14,11 +14,11 @@ x install cxf
 
 ## Code insight
 
-Total: **868,039** lines of code across **9970** files in the top 5 languages.
+Total: **869,074** lines of code across **9977** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 733,596 | 201,453 | 150,957 | 7713 |
+| Java | 734,631 | 201,707 | 151,134 | 7720 |
 | Xml | 122,626 | 33,598 | 2,620 | 2169 |
 | Json | 5,950 | 0 | 0 | 30 |
 | XSL | 1,941 | 627 | 248 | 32 |
@@ -42,22 +42,26 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 933 · **Forks**: 1,470 · **Open issues**: 0 · **Contributors**: 259
+- **Stars**: 932 · **Forks**: 1,473 · **Open issues**: 0 · **Contributors**: 259
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2840 · **Open PRs**: 26 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 20176
+- **Releases**: 0 · **Merged PRs**: 2855 · **Open PRs**: 21 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 20192
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 113 | 11 | 0 | 0 | 112 |
-| last60d | 2026-09-18 | 0 | 217 | 13 | 0 | 0 | 229 |
-| 90d | 2026-08-19 | 0 | 310 | 14 | 0 | 0 | 326 |
-| last180d | 2026-05-21 | 0 | 520 | 15 | 0 | 0 | 585 |
-| 360d | 2025-11-22 | 0 | 851 | 24 | 0 | 0 | 1049 |
-| last720d | 2024-11-27 | 0 | 1284 | 24 | 0 | 0 | 1728 |
+| 30d | 2026-10-20 | 0 | 118 | 6 | 0 | 0 | 128 |
+| last60d | 2026-09-20 | 0 | 232 | 8 | 0 | 0 | 245 |
+| 90d | 2026-08-21 | 0 | 320 | 8 | 0 | 0 | 342 |
+| last180d | 2026-05-23 | 0 | 531 | 10 | 0 | 0 | 601 |
+| 360d | 2025-11-24 | 0 | 859 | 19 | 0 | 0 | 1065 |
+| last720d | 2024-11-29 | 0 | 1296 | 19 | 0 | 0 | 1741 |
+
+## Distribution status
+
+Reported by **2** distros on [repology.org](https://repology.org/project/cxf). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -68,4 +72,4 @@ Install metadata for cxf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:40:00Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:01:53Z._
