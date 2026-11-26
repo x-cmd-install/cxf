@@ -14,12 +14,12 @@ x install cxf
 
 ## Code insight
 
-Total: **870,220** lines of code across **9982** files in the top 5 languages.
+Total: **871,177** lines of code across **9993** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 735,771 | 201,921 | 151,305 | 7725 |
-| Xml | 122,632 | 33,601 | 2,620 | 2169 |
+| Java | 736,711 | 202,179 | 151,422 | 7735 |
+| Xml | 122,649 | 33,619 | 2,620 | 2170 |
 | Json | 5,950 | 0 | 0 | 30 |
 | XSL | 1,941 | 627 | 248 | 32 |
 | JavaScript | 1,827 | 609 | 320 | 26 |
@@ -46,18 +46,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2882 · **Open PRs**: 23 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 20229
+- **Releases**: 0 · **Merged PRs**: 2891 · **Open PRs**: 23 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 20238
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 125 | 8 | 0 | 0 | 135 |
-| last60d | 2026-09-26 | 0 | 237 | 10 | 0 | 0 | 257 |
-| 90d | 2026-08-27 | 0 | 332 | 10 | 0 | 0 | 355 |
-| last180d | 2026-05-29 | 0 | 541 | 12 | 0 | 0 | 620 |
-| 360d | 2025-11-30 | 0 | 878 | 21 | 0 | 0 | 1089 |
-| last720d | 2024-12-05 | 0 | 1317 | 21 | 0 | 0 | 1769 |
+| 30d | 2026-10-27 | 0 | 127 | 8 | 0 | 0 | 143 |
+| last60d | 2026-09-27 | 0 | 246 | 10 | 0 | 0 | 265 |
+| 90d | 2026-08-28 | 0 | 334 | 10 | 0 | 0 | 363 |
+| last180d | 2026-05-30 | 0 | 549 | 12 | 0 | 0 | 628 |
+| 360d | 2025-12-01 | 0 | 881 | 21 | 0 | 0 | 1097 |
+| last720d | 2024-12-06 | 0 | 1323 | 21 | 0 | 0 | 1776 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for cxf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T10:03:04Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:49:46Z._
